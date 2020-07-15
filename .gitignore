@@ -1,0 +1,10 @@
+.vscode
+node_modules
+dist
+packages/*/docker.env
+packages/*/node_modules
+packages/*/.env
+packages/*/.env.development
+packages/*/.env.test
+packages/*/data
+packages/*/*.zip
