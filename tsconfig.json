@@ -20,7 +20,7 @@
     "noImplicitAny": true,
     "types": ["node, jest"],
     "jsx": "react",
-    "noEmit": true,
+    "emitDeclarationOnly": true,
     "incremental": true
   }
 }
